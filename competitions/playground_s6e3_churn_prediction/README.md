@@ -1,8 +1,11 @@
+[Link to the kaggle competition](https://www.kaggle.com/competitions/playground-series-s6e3/)
+
+
 Steps:
 
 1. Inside the terminal, go to the competitions folder, `cd <directory_path>`
 
-2. Download the dataset,
+2. Download the dataset, 
 `kaggle competitions download -c playground-series-s6e3`
 
 This will download a zip file in the directory.
