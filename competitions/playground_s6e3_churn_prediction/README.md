@@ -29,3 +29,5 @@ Now save
 
 At this point, you should do your first commit of the competition, right?
 
+6. Submission
+`kaggle competitions submit -c playground-series-s6e3 -f outputs/baseline_rf_num_only_submission.csv  -m "Baseline RF numeric"`
